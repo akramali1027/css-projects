@@ -1,0 +1,32 @@
+body{
+    background-color: #d5e1ef;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.QrCard{
+    background-color: white;
+    min-height: 500px;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 18px;
+    padding: 18px;
+    text-align: center;
+}
+h2{
+    color: rgb(28, 37, 66)
+}
+p{
+    color: hsl(220, 15%, 55%)
+}
+
+img{
+    width: 100%;
+}
